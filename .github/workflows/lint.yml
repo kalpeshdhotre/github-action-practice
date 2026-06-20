@@ -1,6 +1,6 @@
 # what is the goal of the workflow
 # Goal : whenegver someone changes the python code, the linter will check if the syntax, format, etc is correct or not
-
+# Test comment for execution
 name: Auto Linter
 
 on:
