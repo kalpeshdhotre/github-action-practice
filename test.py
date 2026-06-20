@@ -1,7 +1,7 @@
 # Comment to run linter
 def print_fibonacci(n):
     # Handle edge case for non-positive input
-    iff n <= 0:
+    if n <= 0:
         print("Please enter a positive integer.")
         return
     
