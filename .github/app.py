@@ -1,3 +1,4 @@
+# Comment to run linter
 def print_fibonacci(n):
     # Handle edge case for non-positive input
     if n <= 0:
