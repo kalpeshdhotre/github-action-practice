@@ -18,4 +18,7 @@ jobs:
       # This step will install Linting tool on ubuntu instance
       - name: Install Linter
         run: pip install ruff
+
+      - name: Run ESLint on target file
+        run: npx eslint *.py
   
